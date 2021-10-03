@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>盘点了25个B站的隐藏彩蛋</title>
+      <link href="/blog/%E7%9B%98%E7%82%B9%E4%BA%8625%E4%B8%AAB%E7%AB%99%E7%9A%84%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B/"/>
+      <url>/blog/%E7%9B%98%E7%82%B9%E4%BA%8625%E4%B8%AAB%E7%AB%99%E7%9A%84%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>笔记来源<br><br><a href="https://www.bilibili.com/video/BV1C64y1s74D/?spm_id_from=trigger_reload">https://www.bilibili.com/video/BV1C64y1s74D/?spm_id_from=trigger_reload</a></p></blockquote><h1 id="彩蛋1"><a href="#彩蛋1" class="headerlink" title="彩蛋1"></a>彩蛋1</h1><p>在B站网页版的任意一个视频中，发送弹幕  ilidilid  神奇的事情发生了，整个页面都会被水平翻转过来</p><hr><h1 id="彩蛋2"><a href="#彩蛋2" class="headerlink" title="彩蛋2"></a>彩蛋2</h1><p>在主站内点开鬼畜区，然后用鼠标长按向上10秒，神奇的事情又发生了，底部出现了一行字，在键盘上随机敲打一个字母，在按照提示输入剩下的字母。页面上便会飘着一条带鬼畜的语音的弹幕，点击一下弹幕，会直接跳到该鬼畜原视频中</p><hr><h1 id="彩蛋3"><a href="#彩蛋3" class="headerlink" title="彩蛋3"></a>彩蛋3</h1><p> 查询入站时间<br><br> 打开链接  <a href="https://member.bilibili.com/x2/creative/h5/calendar/event?ts=0">https://member.bilibili.com/x2/creative/h5/calendar/event?ts=0</a> <br><br> ctrl+F  输入<strong>jointime</strong> [1500716833]  将时间戳转化为入站时间<br><br> 使用 <a href="https://www.matools.com/timestamp">https://www.matools.com/timestamp</a><br><br> 即可获取入站时间[2017-07-22 17:47:13]</p><h1 id="彩蛋4"><a href="#彩蛋4" class="headerlink" title="彩蛋4"></a>彩蛋4</h1><p> 打开B站主页——-&gt;点击小黑屋——&gt;鼠标右键查看源代码</p><p><img src="1.png" alt=""></p><hr><h1 id="彩蛋5"><a href="#彩蛋5" class="headerlink" title="彩蛋5"></a>彩蛋5</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>abc</title>
+      <link href="/blog/abc/"/>
+      <url>/blog/abc/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="abc"><a href="#abc" class="headerlink" title="abc"></a>abc</h1><p>这是abc页面</p><p><img src="wallhaven-e7ek7k.jpg" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试页面</title>
       <link href="/blog/done/"/>
       <url>/blog/done/</url>
